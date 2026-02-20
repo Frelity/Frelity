@@ -15,5 +15,5 @@
 ```txt
 Languages:   Python  
 Frontend:    HTML | CSS | Tailwind CSS  
-Backend:     PHP | Node.js
+Backend:     PHP | Laravel
 Database:    PostgreSQL  
